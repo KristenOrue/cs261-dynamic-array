@@ -1,5 +1,5 @@
 # DynamicArray Scratchpad
-# YOUR NAME
+# KRISTEN ORUE 
 # Use this as a "scratchpad" to tinker with your data structure.
 
 from dynamic_array import DynamicArray
